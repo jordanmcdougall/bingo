@@ -1,5 +1,7 @@
 # bingo
 
+[![CI](https://github.com/jordanmcdougall/bingo/actions/workflows/blank.yml/badge.svg)](https://github.com/jordanmcdougall/bingo/actions/workflows/blank.yml)
+
 ## Build Setup
 
 ```bash
